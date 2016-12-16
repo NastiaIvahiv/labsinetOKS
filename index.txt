@@ -1,0 +1,39 @@
+<html> 
+<head> 
+<title> Шоколадки </title> 
+</head> 
+<body bgcolor="pink" text="blue">
+<IMG VSPACE= "2" WIDTH= "320" HEIGHT= "240" SRC=http://chocolatery.net/wp-content/uploads/2014/01/e71296b020ebecfca272419263f80f231.jpg
+<p><i><FONT SIZE=16 COLOR="black"> Улюблені шоколадки</FONT></i></p>
+<p>Milka</p>
+<p>Roshent</p>
+<p>Корона</p>
+<TABLE border="1"
+          summary="Моя таблиця.">
+
+<CAPTION>Назва таблиці</CAPTION>
+<TR>
+   <TH>Номер</TH>
+   <TH>Назва</TH>
+   <TH>Різновид смаків</TH>
+   <TH>Ціна</TH>
+<TR>
+   <TD>1</TD>
+   <TD>Milka</TD>
+   <TD>Полуниця</TD>
+   <TD>25грн</TD>
+<TR>
+   <TD>2</TD>
+   <TD>Roshen</TD>
+   <TD>Малина</TD>
+   <TD>20грн</TD>
+</TABLE>
+
+<MARQUEE BEHAVIOR= "alternate">Виконала студентка гр ОКС-418ск Івахів Анаствсія</MARQUEE>
+
+
+
+<p><A HREF= "lab9.html">Laboratorna9</A></p> 
+
+</html> 
+
